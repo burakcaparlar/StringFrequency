@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StringFrequency</string>
+    <string name="input">Input (String)</string>
+    <string name="freq">Frequency</string>
+    <string name="button_name">Calculate</string>
+</resources>
